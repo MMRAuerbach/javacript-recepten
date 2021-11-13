@@ -1,0 +1,45 @@
+body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Karma", sans-serif
+}
+
+.w3-bar-block .w3-bar-item {
+    padding:20px
+}
+
+.hidden {
+    display: none;
+}
+
+.sidebar {
+    z-index: 2;
+    width: 40%;
+    min-width: 300px;
+}
+
+.top-header {
+    max-width: 1200px;
+    margin:auto;
+}
+
+.food-container {
+    max-width: 1200px;
+    margin-top: 100px;
+}
+
+.food-image {
+    width: 100%;
+}
+
+.blog-image {
+    width: 50px;
+}
+
+
+.single-recipe {
+    cursor: pointer;
+}
+
+.modal-image {
+    width:75%;
+    padding: 16px 0;
+}
